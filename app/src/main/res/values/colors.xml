@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="bg_divider_line">#eeeeee</color>
+    <color name="login_gray">#999999</color>
+
+    //登陆页面
+    <color name="login_text">#465167</color>
+    <color name="forget_psw">#738299</color>
+    <color name="login_click">#55bdfe</color>
+    <color name="login_no_click">#75caff</color>
+    <color name="placeholder">#b4c1d4</color>
+    <color name="send_code">#61a4ff</color>
+    <color name="background_color">#f2f5fa</color>
+    <color name="red_circle">#fb4142</color>
+    <color name="white">@android:color/white</color>
+    <color name="address_background">#E9EDF6</color>
+    <color name="color_tab_text">#b4c1d4</color>
+    <color name="color_text_blue">#61a4ff</color>
+    <color name="color_set">#434f65</color>
+    <color name="color_red">#ff6b7b</color>
+    <color name="color_red_key">#f00</color>
+    <color name="color_deal">#ADD341</color>
+    <color name="color_complete">#FAB374</color>
+    <color name="color_yellow">#fbb474</color>
+    <color name="line_gray">#dddddd</color>
+    <color name="register_et_textcolror">#333333</color>
+    <color name="color_FF8297">#FF8297</color>
+    <color name="color_AED441">#AED441</color>
+    <color name="color_C79BFA">#C79BFA</color>
+
+    <!--调度看板-->
+    <color name="color_empty">#e1e1e1</color>
+    <color name="color_no_accept">#808080</color>
+    <color name="text_order_accepted">#54bff6</color>
+    <color name="color_waiting_task">#36A2EB</color>
+    <color name="color_working">#FFA500</color>
+    <color name="color_competed_on_time">#19CE32</color>
+    <color name="color_time_out">#FF4848</color>
+    <color name="color_F9F9F9">#F9F9F9</color>
+    <color name="color_AFC0E7">#AFC0E7</color>
+    <color name="huise">#CCCC</color>
+    <color name="task_vehicle_type_color">#434F65</color>
+    <color name="color_title_bar">#F8F8F8</color>
+    <color name="n_gray_1">#232323</color>
+    <color name="n_yellow_sub">#ffbb37</color>
+    <color name="color_pressed">#10000000</color>
+    <color name="line_color">#e0e0e0</color>
+
+
+
+</resources>
